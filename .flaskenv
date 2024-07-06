@@ -1,0 +1,2 @@
+FLASK_APP=microblogging.py
+FLASK_DEBUG=1
